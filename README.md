@@ -1,5 +1,7 @@
 # Adina-Hotel-Booking <br>
 
+Checkout Live : [Adina-Hotel-Booking](https://adina-hotel-booking.onrender.com) <br>
+
 For the project to build, **these files must exist with exact filenames**:
 
 * `public/index.html` is the page template;
